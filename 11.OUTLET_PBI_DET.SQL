@@ -1,0 +1,2 @@
+--
+       SELECT * FROM OUTLET_PBI_DET_ARIS opda 

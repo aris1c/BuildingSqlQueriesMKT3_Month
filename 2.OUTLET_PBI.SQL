@@ -1,0 +1,1 @@
+  SELECT * FROM OUTLET_PBI_ARIS opa 
